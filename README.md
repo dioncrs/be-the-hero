@@ -1,4 +1,4 @@
-# :eyeglasses: Be The Hero
+# :superhero_man: Be The Hero
 Este projeto foi desenvolvido e criado pela equipe da RocketSeat e distribuído na Semana OmniStack 11.
 
 ## :rocket: Tecnologias usadas
